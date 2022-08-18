@@ -1,0 +1,22 @@
+{
+  "name": "blashdiscordbot",
+  "version": "1.0.0",
+  "description": "Blash Is a Coolios bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaweiss2001/blashDiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaweiss2001/blashDiscordBot/issues"
+  },
+  "homepage": "https://github.com/lukaweiss2001/blashDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  }
+}
